@@ -25,9 +25,10 @@ This project is created with the use of following Tools.
 ### Run the Test(s)
 - Open Command Prompt
 - Navigate to the downloaded project directory
-- Run the project from command prompt using following command 
--- 'mvn clean, compile, install'
--- 'java -jar -Dapple.awt.UIElement="true" target/myproject-1.0-SNAPSHOT.jar -h'
+
+Run the project from command prompt using following command 
+- 'mvn clean, compile, install'
+- 'java -jar -Dapple.awt.UIElement="true" target/myproject-1.0-SNAPSHOT.jar -h'
 
 
 ### Support
