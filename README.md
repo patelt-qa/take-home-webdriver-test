@@ -26,10 +26,12 @@ This project is created with the use of following Tools.
 - Open Command Prompt
 - Navigate to the downloaded project directory
 
-Run the project from command prompt using following command 
+Run the project from command prompt using following command on Windows OS
+- 'mvn clean, compile, install'
+
+Run the project from command prompt using following command on Linux OS
 - 'mvn clean, compile, install'
 - 'java -jar -Dapple.awt.UIElement="true" target/myproject-1.0-SNAPSHOT.jar -h'
-
 
 ### Support
 Reach out to me at one of the following places!
