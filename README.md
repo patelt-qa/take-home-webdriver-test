@@ -3,11 +3,11 @@
 ### Project Description
 This project is created with the use of following Tools.
 
-Eclipse Java EE IDE for Web Developers - Version: Oxygen.2 Release (4.7.2)
-Selenium Server - Version 3.141.59
-JDK - Version 1.8.0_231
-Apache Maven - Version 3.5.2
-Framework - TestNG
+- Eclipse Java EE IDE for Web Developers - Version: Oxygen.2 Release (4.7.2)
+- Selenium Server - Version 3.141.59
+- JDK - Version 1.8.0_231
+- Apache Maven - Version 3.5.2
+- Framework - TestNG
 
 ### Installation
 Download JAVA from 'http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html'
