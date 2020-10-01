@@ -10,25 +10,25 @@ This project is created with the use of following Tools.
 - Framework - TestNG
 
 ### Installation
-Download JAVA from 'http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html'
-Download MAVEN from 'https://maven.apache.org/download.cgi'
-Setup JAVA_Home and M2_Home in Environment Variable using 'https://maven.apache.org/install.html'
-Verify installation of JAVA & Maven from Command Prompt
+- Download JAVA from 'http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html'
+- Download MAVEN from 'https://maven.apache.org/download.cgi'
+- Setup JAVA_Home and M2_Home in Environment Variable using 'https://maven.apache.org/install.html'
+- Verify installation of JAVA & Maven from Command Prompt
 
 ### Clone
-Clone the repository for this project to your local machine using 'https://github.com/patelt-qa/take-home-webdriver-test'
+- Clone the repository for this project to your local machine using 'https://github.com/patelt-qa/take-home-webdriver-test'
 
 ### Setup the project
-Download the zip file from Git Repo
-Extract 'myTechTest' project and save it on local machine
+- Download the zip file from Git Repo
+- Extract 'myTechTest' project and save it on local machine
 
 ### Run the Test(s)
-Open Command Prompt
-Navigate to the downloaded project directory
-Run the project from command prompt using 'mvn clean, compile, install'
+- Open Command Prompt
+- Navigate to the downloaded project directory
+- Run the project from command prompt using 'mvn clean, compile, install'
 
 ### Support
 Reach out to me at one of the following places!
 
-LinkedIn at 'https://www.linkedin.com/in/tarak-patel-b616117/'
-Email on 'patelt.qa@gmail.com'
+- LinkedIn at 'https://www.linkedin.com/in/tarak-patel-b616117/'
+- Email on 'patelt.qa@gmail.com'
